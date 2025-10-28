@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-#%u@%-e=pz6uh2o(vdq&!a+c0v&gwf3mjzoua0aocz=an7*ic*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['projetoteste-jzak.onrender.com']
 
 # VÁRIAVEIS DE LOGIN ESTÃO AQUI!!!
 
